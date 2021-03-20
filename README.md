@@ -51,7 +51,7 @@ e)It should look like `app.json`. 🎉
 f)Then tap 👇👇
 
  Heroku is not supported now 😕 #Dead
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/26souravk/TorrentLeech-Gdrive/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?)
 
 Better buy a vps 😐 and follow [this](https://github.com/gautamajay52/TorrentLeech-Gdrive#process-to-run-this-bot-on-vps)
 
