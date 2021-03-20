@@ -5,11 +5,11 @@ from tobrot.sample_config import Config
 #FOR CUSTOM COMMANDS READ REAME AND FILL THEM...
 
 class Config(Config):
-    TG_BOT_TOKEN= "1423448954:AAHoSKPigA0TpOGdI64c_cidCT8Da1xAghU"
-    APP_ID = 1741321
-    API_HASH = "c085ffacfbe7b1473fc1cee1b7e40ca7"
-    OWNER_ID = 728771705
-    AUTH_CHANNEL = [-1001444610509]
+    TG_BOT_TOKEN= "1571459835:AAEM2HoN6ec8kNo0IckPUYUvYyigBmcapxM"
+    APP_ID = 2054317
+    API_HASH = "1a6d26873111473f63ceaa8ba9037ce3"
+    OWNER_ID = 1443053231
+    AUTH_CHANNEL = [-1001402436493]
     DESTINATION_FOLDER = "TorrentLeech-Gdrive" #Name of your folder read readme(not id of the folder)
     #Just don't fill RCLONE_CONFIG vars, insted copy your rclone.conf file in root directory
     #if your wanted to fill -- fill your rclone config like this(Your config may have some extra value or less. so Don't worry)
